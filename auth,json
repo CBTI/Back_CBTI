@@ -1,0 +1,9 @@
+{
+  "apiKey": "AIzaSyAVwr-sPn0QJs1COqzf-UWPu3cf2oVbkNQ",
+  "authDomain": "psychological-server.firebaseapp.com",
+  "databaseURL": "https://psychological-server-default-rtdb.firebaseio.com/",
+  "projectId": "psychological-server",
+  "storageBucket": "psychological-server.appspot.com",
+  "messagingSenderId": "161316158562",
+  "appId": "1:161316158562:web:339d81f51b6e268470a53b"
+}

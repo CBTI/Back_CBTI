@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychological-server",
+  "private_key_id": "044738a22d74e00641a835dedca22aa9b1cc225f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj+7dsYAUr3L9h\nh/hQaMh/Vpo+cKxRv5aDdtkZy0ei8l5RqZVO9UPdIVQZo+RcXAf/jv0NXLvdue3a\nAmlrGXOInWkMTHCWcslNGVfzTSywNB6TjMl8n6eSEjxs9tMeZT9jo7FWt/XOugau\nIgc64Tp35kD2IJGWjk4+lb34sW1bJyAQXHZhdmCl1czSMxSXETPtru4nmPAaXSYA\nDiXySNiTXeuKG8Q7JYrWUqVxYU+ErxbgaQ4T++44GBUR570iqYFdproUhFehnG5d\nZrIH58orRBsHMXHJqs+rDNFmnA+b0ETo2K7vM503mYPIO0WIdzbpqByOgYl6zZ8J\n3ugs/gKBAgMBAAECggEASCK7ege1TqnBYKidIdYuWOHiYVRUYXO7xOIbt76WKUag\nGiFVBpJbA6QdKFhR5RUxCYk/pUildfDMAmqsMApWqgLAysG3h19AUVO0Plm1LmAH\nEVZN7i4XW2j9PtvHXGginfTM1r5++a0YsjJS5uJcQ5E9A2ipUscQAXUCyCtY1U8o\nzoTXATsttmlkukO8/U8G5iIQA9g2EiBN2wB705vKcw6f649mP/3El1tsIsYVFT/m\nmnkEdFsuO+jV0sjzltV2StR89B4tNdRjVtUf6pPYSpfChcxmBFRQbmXK000rX6L+\n7ssi1pSqlgq+3q9jpcsrHPtXWekXcOI7Nxd7a3J6VwKBgQDXRHlmPHpOxAh0275U\nnEJ32E+xV/GslJhUJUJ0Y12zuQrxswYrxyFPlpXMi5zpQYsuqpVyWnc7jub1yIw/\nZYrr9Nc0uWQMaEvoqMuOrIXR6jRk5pFyl/KgZdFYqlsZoPj/xr0mAeisCeNet69s\nE+OO1h1K5vDyKQkLrGo2jSlqhwKBgQDDAwrhPaNEmkUfNMQP3cnKj4FKTOV7FJVq\nRgr1jfH1bDozlpixrDra0VgOpk0mSOvQkaWjZLzBVqGi0UKbTlEjvbQSKpVm7ufK\n4a4e82cGBLR4dO4xptB6OjJ6lgIvAM8s7cT6WLq0xZxZilbXzno5xAmVfL4VZj0b\n7K5C7fFEtwKBgQCy8TqxH6jT/OTCrz/B+brPAMMOOnqs6UDPAcICGe90TGeqjxSc\nI4WvMRAI3i1rQI7AFhDw4/6lRZ77xN/Ae1pF1ltmeo2OOsyO9HFxgjwjSLqQ/ZD+\nXwzTBJBHUiU0YrlZdQ0aoQ+WowmcXLi38LiCrb3f26WCx1W7nHEWM7Wv1QKBgEDW\nnCFzuvsuR9kuVBnqZhOBTz2C/7HCkEM7cp1eSpqNF3Tbl31LhG4IuLx2MqSODknU\ngzwmXFP0F93osbqteXDmvB5mJjKJMGxWSOxlhVWM7uw2BJRhoGNjQjFb+vHh1QBd\nNeb+5WUBZxCmXGV4c08NjRo01YaL7bmBIheCwXtVAoGAKfUSzCtA7t5528HEpHj5\nPj+BFMpjf92Rm4wQMOG9+eBP5wWOM4xNzq0bp3RwB2q6fPzhT/c+EZGEqPmsfVr8\nqjNuN2w6yZe37CZYXPukCs0IctpBzh92JAPcw+4m20Y0EI12ECXYhA6NkWeCyJyq\nj9xdOiYeiaEXH106jajuHUs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8wg47@psychological-server.iam.gserviceaccount.com",
+  "client_id": "117184364376622428278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8wg47%40psychological-server.iam.gserviceaccount.com"
+}
