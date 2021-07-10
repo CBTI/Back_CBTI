@@ -1,0 +1,35 @@
+[ 가상환경 설정 ]
+cd C:\Users\hanju\1_CBTI
+cd cbtiEnv
+cd Scripts
+activate
+
+[프로젝트 폴터 진입]
+cd CBTIproject
+cd C:\Users\hanju\1_CBTI
+
+[서버 실행]
+python .\manage.py runserver 7777
+
+Username : cbti_superuser
+Email : hanjunjung@naver.com
+password : cbti_password
+
+[sqlite3]
+.\sqlite3.exe .\db.sqlite3
+.tables
+.schema 테이블이름
+
+[마이그레이션 제작]
+
+python .\manage.py makemigrations
+
+Please select a fix:
+ 1) Provide a one-off default now (will be set on all existing rows with a null value for this column)
+ 2) Quit, and let me add a default in models.py
+위의 내용이 출력된다면, 기존에 DB가 있는데 새로운 컬럼이 생겨나니 나오는 문구이다.
+1번은 콘솔에서 직접 입력해주기
+2번은 해당 필드에 대한 디폴트값을 지정해주는 것
+난 1번으로 'undefine@example.com'
+이후
+python .\manage.py migrate
