@@ -1,12 +1,12 @@
 [ 가상환경 설정 ]
-cd C:\Users\hanju\1_CBTI
+cd C:\Users\사용자명\1_CBTI
 cd cbtiEnv
 cd Scripts
 activate
 
 [프로젝트 폴터 진입]
 cd CBTIproject
-cd C:\Users\hanju\1_CBTI
+cd C:\Users\사용자명\1_CBTI
 
 [서버 실행]
 python .\manage.py runserver 7777
